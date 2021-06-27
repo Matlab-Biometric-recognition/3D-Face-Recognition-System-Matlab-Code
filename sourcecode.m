@@ -6,13 +6,6 @@
 % 
 % http://matlab-recognition-code.com/3d-face-recognition-biometric-system-matlab-full-source-code
 % 
-% For any question please email me hamdouchhd@hotmail.com
 %
-% Hamdi Boukamcha
-% Sousse
-% 4081
-% Tunisia
-% mobile +201650674269
-% email hamdouchhd@hotmail.com
 % website http://matlab-recognition-code.com
 %
